@@ -1,4 +1,6 @@
 # Blockchain
+<author>Bulent Tastan</author><br />
+<date>Oct. 20, 2021</date>
 
 ## What is it (Technically)?
 - Holds accounts/transactions
